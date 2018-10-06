@@ -1,0 +1,22 @@
+{
+  "name": "tc-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tc-rpg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmiska/tc-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcmiska/tc-rpg/issues"
+  },
+  "homepage": "https://github.com/mcmiska/tc-rpg#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
